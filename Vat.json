@@ -1,0 +1,345 @@
+{
+    "tax_category": "VAT",
+    "description": [
+        {
+            "article_name": "Article 1 | Definitions",
+            "article_summary": "Defines key VAT terms such as taxable person, input tax, exempt supply, place of supply, designated zones, and tax invoices."
+        },
+        {
+            "article_name": "Article 2 | Scope of Tax",
+            "article_summary": "VAT applies to taxable and deemed supplies, as well as imports unless exempted."
+        },
+        {
+            "article_name": "Article 3 | Tax Rate",
+            "article_summary": "A standard VAT rate of 5% applies unless specified otherwise."
+        },
+        {
+            "article_name": "Article 4 | Responsibility for Tax",
+            "article_summary": "VAT must be paid by suppliers, importers, and recipients of services under the reverse charge mechanism."
+        },
+        {
+            "article_name": "Article 5 | Supply of Goods",
+            "article_summary": "A supply occurs when goods are sold, transferred, or contracted for future transfer."
+        },
+        {
+            "article_name": "Article 6 | Supply of Services",
+            "article_summary": "A supply of services is any transaction that is not a supply of goods."
+        },
+        {
+            "article_name": "Article 7 | Supply in Special Cases",
+            "article_summary": "Some transactions, such as vouchers and business transfers, are not VAT|applicable supplies."
+        },
+        {
+            "article_name": "Article 8 | Supply Consisting of More Than One Component",
+            "article_summary": "VAT treatment for bundled goods and services depends on the main supply."
+        },
+        {
+            "article_name": "Article 9 | Supply via Agent",
+            "article_summary": "Defines VAT obligations when selling through an agent in their own name or on behalf of a principal."
+        },
+        {
+            "article_name": "Article 10 | Supply by Government Entities",
+            "article_summary": "Government entities must charge VAT unless acting in a sovereign capacity."
+        },
+        {
+            "article_name": "Article 11 | Cases of Deemed Supply",
+            "article_summary": "Certain transactions are treated as supplies for VAT, such as assets no longer used for business, internal transfers, or goods/services used for non|business purposes."
+        },
+        {
+            "article_name": "Article 12 | Exceptions from Deemed Supply",
+            "article_summary": "A supply is not deemed taxable if no input tax was claimed, it is an exempt supply, or falls below the Executive Regulation limit."
+        },
+        {
+            "article_name": "Article 13 | Mandatory Tax Registration",
+            "article_summary": "A person must register for VAT if taxable supplies exceed the mandatory threshold, or if they are a non|resident making taxable supplies."
+        },
+        {
+            "article_name": "Article 14 | Tax Group",
+            "article_summary": "Two or more businesses can register as a single VAT entity if they meet the conditions."
+        },
+        {
+            "article_name": "Article 15 | Registration Exception",
+            "article_summary": "Businesses making only zero|rated supplies can apply for VAT registration exemption."
+        },
+        {
+            "article_name": "Article 16 | Tax Registration of Government Entities",
+            "article_summary": "Government entities must register and deregister based on Cabinet decisions."
+        },
+        {
+            "article_name": "Article 17 | Voluntary Registration",
+            "article_summary": "Businesses can voluntarily register if they exceed the voluntary registration threshold."
+        },
+        {
+            "article_name": "Article 18 | Tax Registration for a Non|Resident",
+            "article_summary": "A non|resident supplying goods/services in the UAE must register for VAT."
+        },
+        {
+            "article_name": "Article 19 | Calculating the Tax Registration Threshold",
+            "article_summary": "Total taxable supplies determine VAT registration eligibility."
+        },
+        {
+            "article_name": "Article 20 | Capital Assets",
+            "article_summary": "Capital asset sales do not count towards VAT registration thresholds."
+        },
+        {
+            "article_name": "Article 21 | Tax Deregistration Cases",
+            "article_summary": "A business must deregister if it stops making taxable supplies or falls below the voluntary threshold."
+        },
+        {
+            "article_name": "Article 22 | Application for Tax Deregistration",
+            "article_summary": "A VAT|registered entity can apply for deregistration if no longer meeting VAT requirements."
+        },
+        {
+            "article_name": "Article 23 | Voluntary Tax Deregistration",
+            "article_summary": "A voluntarily registered business must wait 12 months before applying for deregistration."
+        },
+        {
+            "article_name": "Article 24 | Procedures, Controls, and Conditions of Tax Registration and Deregistration",
+            "article_summary": "The Executive Regulation specifies registration and deregistration rules."
+        },
+        {
+            "article_name": "Article 26 | Date of Supply in Special Cases",
+            "article_summary": "Contracts with periodic payments follow specific VAT timing rules."
+        },
+        {
+            "article_name": "Article 27 | Place of Supply of Goods",
+            "article_summary": "VAT applies where the supply physically takes place."
+        },
+        {
+            "article_name": "Article 28 | Place of Supply of Water and Energy",
+            "article_summary": "VAT treatment depends on the customer’s place of residence."
+        },
+        {
+            "article_name": "Article 29 | Place of Supply of Services",
+            "article_summary": "Services are taxable based on the supplier’s place of business."
+        },
+        {
+            "article_name": "Article 30 | Place of Supply in Special Cases",
+            "article_summary": "Special rules apply for imports, telecommunications, and electronic services."
+        },
+        {
+            "article_name": "Article 30 | Place of Supply in Special Cases",
+            "article_summary": "Special rules apply for determining the place of supply for certain services and goods."
+        },
+        {
+            "article_name": "Article 31 | Place of Supply of Telecommunication and Electronic Services",
+            "article_summary": "VAT is applied based on where telecom and electronic services are used or enjoyed."
+        },
+        {
+            "article_name": "Article 32 | Place of Establishment",
+            "article_summary": "Defines how the place of establishment for a business is determined for VAT purposes."
+        },
+        {
+            "article_name": "Article 33 | The Agent",
+            "article_summary": "Outlines the VAT obligations when an agent acts on behalf of another party."
+        },
+        {
+            "article_name": "Article 34 | Value of Supply",
+            "article_summary": "Specifies how the taxable value of a supply is calculated for VAT purposes."
+        },
+        {
+            "article_name": "Article 35 | Value of Import",
+            "article_summary": "VAT on imports is calculated based on the customs value of the goods."
+        },
+        {
+            "article_name": "Article 36 | Value of Supply and Deemed Supply for Related Parties",
+            "article_summary": "Defines the valuation rules for supplies between related parties."
+        },
+        {
+            "article_name": "Article 37 | Value of Deemed Supply",
+            "article_summary": "Specifies how the value is determined for deemed supplies."
+        },
+        {
+            "article_name": "Article 38 | Tax|Inclusive Prices",
+            "article_summary": "Prices must include VAT unless explicitly stated otherwise."
+        },
+        {
+            "article_name": "Article 39 | Value of Supply in Case of Discounts or Subsidies",
+            "article_summary": "VAT is adjusted when discounts or subsidies apply to a supply."
+        },
+        {
+            "article_name": "Article 40 | Value of Supply of Vouchers",
+            "article_summary": "The taxable amount for vouchers is the difference between the sale price and the face value."
+        },
+        {
+            "article_name": "Article 41 | Value of Supply of Postage Stamps",
+            "article_summary": "VAT applies to the value of postage stamps based on their face value."
+        },
+        {
+            "article_name": "Article 42 | Temporary Transfer of Goods",
+            "article_summary": "Outlines VAT rules for goods temporarily transferred outside the UAE."
+        },
+        {
+            "article_name": "Article 43 | Charging Tax Based on Profit Margin",
+            "article_summary": "In certain cases, VAT can be charged only on the profit margin instead of the total value."
+        },
+        {
+            "article_name": "Article 44 | Supply and Import Taxable at Zero Rate",
+            "article_summary": "Lists transactions that are taxable at a 0% VAT rate."
+        },
+        {
+            "article_name": "Article 45 | Goods and Services Subject to Zero Rate",
+            "article_summary": "Specifies goods and services like healthcare, education, and exports that qualify for a 0% VAT rate."
+        },
+        {
+            "article_name": "Article 46 | Supply Exempt from Tax",
+            "article_summary": "Defines exempt supplies such as financial services and residential leases."
+        },
+        {
+            "article_name": "Article 47 | Supply Consisting of More Than One Component",
+            "article_summary": "Explains how VAT applies to mixed supplies involving multiple components."
+        },
+        {
+            "article_name": "Article 48 | Reverse Charge",
+            "article_summary": "Outlines when the recipient must account for VAT instead of the supplier."
+        },
+        {
+            "article_name": "Article 49 | Import of Concerned Goods",
+            "article_summary": "Details VAT rules for specific goods imported into the UAE."
+        },
+        {
+            "article_name": "Article 50 | Designated Zone",
+            "article_summary": "Defines VAT|free designated zones and conditions for exemption."
+        },
+        {
+            "article_name": "Article 51 | Transfer of Goods in Designated Zones",
+            "article_summary": "Specifies conditions under which VAT is not applied to goods transferred in designated zones."
+        },
+        {
+            "article_name": "Article 52 | Exceptions for Designated Zone",
+            "article_summary": "Lists cases where VAT applies even in designated zones."
+        },
+        {
+            "article_name": "Article 53 | Calculation of Payable Tax",
+            "article_summary": "Explains how to calculate the VAT payable or refundable."
+        },
+        {
+            "article_name": "Article 54 | Recoverable Input Tax",
+            "article_summary": "Identifies input tax that can be reclaimed by businesses."
+        },
+        {
+            "article_name": "Article 55 | Recovery of Recoverable Input Tax in the Tax Period",
+            "article_summary": "Defines the process for recovering input tax within a specific tax period."
+        },
+        {
+            "article_name": "Article 56 | Input Tax before Tax Registration",
+            "article_summary": "Allows businesses to reclaim VAT paid before registration."
+        },
+        {
+            "article_name": "Article 57 | Recovery of Tax by Government Entities and Charities",
+            "article_summary": "Covers VAT refunds for eligible government entities and charities."
+        },
+        {
+            "article_name": "Article 58 | Calculating the Input Tax that may be Recovered",
+            "article_summary": "Provides rules for calculating partial recovery of input tax."
+        },
+        {
+            "article_name": "Article 59 | Conditions and Mechanism of Input Tax Adjustment",
+            "article_summary": "Specifies when and how businesses can adjust their input tax claims."
+        },
+        {
+            "article_name": "Article 60 | Capital Assets Scheme",
+            "article_summary": "Defines VAT treatment for capital assets over a long period."
+        },
+        {
+            "article_name": "Article 61 | Instances and Conditions for Output Tax Adjustments",
+            "article_summary": "Lists situations where businesses can adjust their output tax."
+        },
+        {
+            "article_name": "Article 62 | Mechanism for Output Tax Adjustment",
+            "article_summary": "Explains the process for making output tax adjustments on returns."
+        },
+        {
+            "article_name": "Article 63 | Adjustment due to the Issuance of Tax Credit Notes",
+            "article_summary": "Details how VAT is adjusted when a tax credit note is issued."
+        },
+        {
+            "article_name": "Article 64 | Adjustment for Bad Debts",
+            "article_summary": "Provides guidelines for adjusting VAT in case of bad debts."
+        },
+        {
+            "article_name": "Article 65 | Conditions and Requirements for Issuing Tax Invoices",
+            "article_summary": "Specifies mandatory information and timing for issuing tax invoices."
+        },
+        {
+            "article_name": "Article 66 | Document of Supplies to Implementing States",
+            "article_summary": "Defines documentation requirements for supplies to implementing states."
+        },
+        {
+            "article_name": "Article 67 | Date of Issuance of Tax Invoice",
+            "article_summary": "Outlines the time limits for issuing tax invoices."
+        },
+        {
+            "article_name": "Article 68 | Rounding on Tax Invoices",
+            "article_summary": "Specifies rules for rounding VAT amounts on invoices."
+        },
+        {
+            "article_name": "Article 69 | Currency Used on Tax Invoices",
+            "article_summary": "Defines the currency requirements for VAT invoices and conversion rules."
+        },
+        {
+            "article_name": "Article 70 | Conditions and Requirements for Issuing the Tax Credit Note",
+            "article_summary": "Details the conditions for issuing tax credit notes to adjust VAT."
+        },
+        {
+            "article_name": "Article 71 | Duration of Tax Period",
+            "article_summary": "Defines the frequency of tax periods for filing VAT returns."
+        },
+        {
+            "article_name": "Article 72 | Submission of Tax Returns",
+            "article_summary": "Specifies deadlines and procedures for filing VAT returns."
+        },
+        {
+            "article_name": "Article 73 | Settlement of Tax",
+            "article_summary": "Explains when and how VAT must be paid to the authority."
+        },
+        {
+            "article_name": "Article 74 | Excess Recoverable Tax",
+            "article_summary": "Outlines the process for claiming VAT refunds when recoverable tax exceeds payable tax."
+        },
+        {
+            "article_name": "Article 75 | Tax Recovery in Special Cases",
+            "article_summary": "Covers special cases for VAT recovery, such as refunds for UAE nationals."
+        },
+        {
+            "article_name": "Article 76 | Administrative Penalties Assessment",
+            "article_summary": "Lists penalties for failing to comply with VAT regulations."
+        },
+        {
+            "article_name": "Article 77 | Tax Evasion",
+            "article_summary": "Defines tax evasion and outlines severe consequences for fraudulent behavior."
+        },
+        {
+            "article_name": "Article 78 | Record|keeping",
+            "article_summary": "Specifies record retention requirements for VAT compliance."
+        },
+        {
+            "article_name": "Article 79 | Stating the Tax Registration Number",
+            "article_summary": "Mandates the inclusion of VAT registration numbers on invoices."
+        },
+        {
+            "article_name": "Article 80 | Transitional Rules",
+            "article_summary": "Covers VAT obligations during regulatory changes or transitions."
+        },
+        {
+            "article_name": "Article 81 | Revenue Sharing",
+            "article_summary": "Defines how VAT revenue is shared between federal and emirate governments."
+        },
+        {
+            "article_name": "Article 82 | Executive Regulation",
+            "article_summary": "Grants authority to issue additional VAT|related regulations."
+        },
+        {
+            "article_name": "Article 83 | Power to Issue Rules",
+            "article_summary": "Provides authority for issuing detailed rules under the VAT law."
+        },
+        {
+            "article_name": "Article 84 | Cancellation of Conflicting Provisions",
+            "article_summary": "Specifies that any conflicting provisions are repealed."
+        },
+        {
+            "article_name": "Article 85 | Effective Date",
+            "article_summary": "Defines the date when the VAT law comes into effect."
+        }
+    ]
+}
