@@ -17,7 +17,7 @@ Legal Edge AI is an AI-powered legal analysis tool that leverages **Neo4j, knowl
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/LexGraph-AI.git
+git clone https://github.com/etisamhaq/Legal-Edge-AI
 cd LexGraph-AI
 
 # Create a virtual environment
