@@ -8,6 +8,8 @@ Legal Edge AI is an AI-powered legal analysis tool that leverages **Neo4j, knowl
 - **Regulatory Compliance**: Assists in understanding tax and legal regulations.
 - **Streamlit UI**: Provides an interactive and user-friendly legal research experience.
 
+![pic](https://github.com/etisamhaq/Legal-Edge-AI/blob/main/pic1.jpg)
+
 ## Tech Stack
 - **Neo4j** – Graph database for structured legal knowledge.
 - **LangChain & LangGraph** – AI-powered document processing and retrieval.
